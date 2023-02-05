@@ -1,6 +1,6 @@
 
 ## Welcome! 
-Thanks for checking out this Application.
+Thanks for checking out this Application...
 
 ## My process
 
